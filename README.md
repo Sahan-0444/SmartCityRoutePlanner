@@ -1,3 +1,12 @@
+## 🧑‍🤝‍🧑 Team Members
+
+| Name | Index no |
+|---------|----------------|
+| Sahan Thejana | 22UG3-0444 |
+| Yasith Wijesuriya | 22UG3-0723 |
+| Methmi Ekanayaka | 22UG3-0107 |
+|  |  |
+
 # 🏙️ Smart City Route Planner
 
 ## 📘 Overview
