@@ -5,7 +5,7 @@
 | Sahan Thejana | 22UG3-0444 |
 | Yasith Wijesuriya | 22UG3-0723 |
 | Methmi Ekanayaka | 22UG3-0107 |
-|  |  |
+| Yasantha Weerasinghe | 22UG3-0243 |
 
 # 🏙️ Smart City Route Planner
 
